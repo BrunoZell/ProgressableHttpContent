@@ -11,6 +11,10 @@
         <PackageLicenseUrl>https://github.com/TheInsaneBro/ProgressableHttpContent/blob/master/LICENSE</PackageLicenseUrl>
         <PackageTags>net http httpcontent progress iprogress reporting httpclient async asynchronous</PackageTags>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>1.1.0</Version>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <FileVersion>1.1.0.0</FileVersion>
+        <Description>Provides a proxy like HttpContent implementation that reports the upload progress</Description>
     </PropertyGroup>
 
     <ItemGroup>
