@@ -2,6 +2,15 @@
 
     <PropertyGroup>
         <TargetFrameworks>net45;netcoreapp1.0;netstandard1.1</TargetFrameworks>
+        <Authors>Bruno Zell</Authors>
+        <Company />
+        <Product />
+        <Copyright>Bruno Zell</Copyright>
+        <PackageProjectUrl>https://github.com/TheInsaneBro/ProgressableHttpContent</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/TheInsaneBro/ProgressableHttpContent</RepositoryUrl>
+        <PackageLicenseUrl>https://github.com/TheInsaneBro/ProgressableHttpContent/blob/master/LICENSE</PackageLicenseUrl>
+        <PackageTags>net http httpcontent progress iprogress reporting httpclient async asynchronous</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
