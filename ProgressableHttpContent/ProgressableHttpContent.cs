@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 
 namespace System.Net.Http {
-    internal class ProgressableHttpContent : HttpContent {
+    public class ProgressableHttpContent : HttpContent {
         private const int DEFAULT_BUFFER_SIZE = 5 * 4096; // 20KB
 
         private HttpContent _content;
